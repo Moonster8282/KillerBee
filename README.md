@@ -5,6 +5,8 @@ Please use it for legitimate Vulnerability Pentesting to your Website
 
 anstjddbs12@gmail.com / @Moonster8282
 
+**MSSQL VERSION HAS NOT BEEN CODED YET**
+
 # Version
 1.0
 
