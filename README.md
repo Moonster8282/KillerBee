@@ -24,7 +24,12 @@ pip install -r requirements.txt
 ```
 
 # Usage
-* **Step 1.** Edit following default settings on code:
+* **Step 1.** clone this to anywhere/you/want
+```
+git clone https://github.com/Moonster8282/KillerBee
+```
+
+* **Step 2.** Edit following default settings on code:
 ```
 ...
 #A. Set Your Database Type: 1 = Oracle, 2 = Mysql, 3 = Mssql
@@ -64,7 +69,7 @@ e_name.insert(0, "THIS_IS_FOLDER_NAME")
 ...
 ``` 
 
-* **Step 2.** Now you can excute with following commands:
+* **Step 3.** Now you can excute with following commands:
 ```
 python3 ./injecter.py
 ```
