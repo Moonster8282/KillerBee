@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 # Usage
-* **Step 1.** clone this to anywhere/you/want
+* **Step 1.** clone this to ```/anywhere/you/want```
 ```
 git clone https://github.com/Moonster8282/KillerBee
 ```
