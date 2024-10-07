@@ -1,0 +1,6 @@
+openpyxl
+asyncio
+aiohttp
+tkinter
+pandas
+numpy
