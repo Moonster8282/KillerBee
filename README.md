@@ -1,7 +1,7 @@
 # KillerBee
 This is a tool for visualizing the results of Blind SQL Injection
 This tool may help you to gather the important informations(schema, table, column, data) and actual data that stored in database.
-Please use it for legitimate Vulnerability Pentesting to your Website
+Please use it for legitimate Vulnerability Pentesting for your Website
 
 anstjddbs12@gmail.com / @Moonster8282
 
